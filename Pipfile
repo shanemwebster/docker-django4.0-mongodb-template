@@ -12,6 +12,8 @@ django-htmx = "*"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
+mongoengine = "*"
+djongo = "*"
 
 [dev-packages]
 
